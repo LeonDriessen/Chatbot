@@ -1,0 +1,22 @@
+
+.cache/
+coverage/
+dist/*
+!dist/index.html
+node_modules/
+*.log
+
+src/back-end/recommender/.idea/
+src/back-end/recommender/venv/
+src/back-end/recommender/__pycache__
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+.env
